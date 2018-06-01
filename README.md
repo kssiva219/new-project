@@ -1,1 +1,1 @@
-# new-project
+its my new git project -
